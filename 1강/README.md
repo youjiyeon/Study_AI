@@ -23,4 +23,5 @@ Matplotlib란?
 시각화 라이브러리
 
 axis란?
+
 ![axis](https://user-images.githubusercontent.com/57094856/220031733-012d24a4-f569-42ca-8a45-f707c740a805.jpg)
